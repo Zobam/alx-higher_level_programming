@@ -1,1 +1,1 @@
-Exercises on Python programming language input and output
+Exercises on Python programming language input and output feature
