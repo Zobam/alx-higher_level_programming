@@ -1,0 +1,1 @@
+An exercise on Python programming language object inheritance.
