@@ -19,9 +19,9 @@ class Rectangle(Base):
         Args:
             width (int): the wanted width of the rectangle.
             height (int): the wanted height of the rectangle.
-            x (int): the wanted horizontal (x) padding of the rectangle.
-            y (int): the wanted vertical (y) padding of the rectangle.
-            id (int): the wanted identifier of the Base object.
+            x (int): the horizontal (x) padding of the rectangle.
+            y (int): the vertical (y) padding of the rectangle.
+            id (int): the identifier of the Base object.
         """
         super().__init__(id)
         self.width = width

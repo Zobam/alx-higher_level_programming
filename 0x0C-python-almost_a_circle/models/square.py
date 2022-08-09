@@ -12,9 +12,9 @@ class Square(Rectangle):
         """Initializes the default attributes of the Base object.
         Args:
             size (int): the size of a square side.
-            x (int): the wanted horizontal (x) padding of the square.
-            y (int): the wanted vertical (y) padding of the square.
-            id (int): the wanted identifier of the Base object.
+            x (int): the horizontal (x) padding of the square.
+            y (int): the vertical (y) padding of the square.
+            id (int): the identifier of the Base object.
         """
         super().__init__(size, size, x, y, id)
 
