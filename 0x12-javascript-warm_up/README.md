@@ -1,0 +1,1 @@
+This directory is made to contain exercises on JavaScript
